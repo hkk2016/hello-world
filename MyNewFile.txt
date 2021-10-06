@@ -1,9 +1,9 @@
 Hi I have created new text file
 
 This is a sample file to test the Git .
-
-nswjnk xnswxnk xsn xjnwkjn  .
-
+xxxxx
+nswjnk xnswxnk xyz xsn xjnwkjn  .
+YYYYY
 cwjejcke nwxnwj xnxwnj .
 
 Master file changes.
@@ -15,3 +15,7 @@ change 1
 change 2
 
 another master file change
+
+this is a nee text added to verify some thingXX
+this is a nee text added to verify some thingXX
+this is a nee text added to verify some thingXX
